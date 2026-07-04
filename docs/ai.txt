@@ -1,0 +1,7 @@
+Artificial Intelligence enables machines to solve problems.
+
+Machine Learning is a subset of Artificial Intelligence.
+
+Large Language Models are trained on massive datasets.
+
+Retrieval Augmented Generation combines retrieval and LLMs.

@@ -1,0 +1,7 @@
+Java is an object-oriented programming language.
+
+Spring Boot is built on top of Spring Framework.
+
+Dependency Injection provides loose coupling.
+
+REST APIs enable communication between services.
