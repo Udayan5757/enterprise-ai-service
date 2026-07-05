@@ -1,8 +1,6 @@
 from fastapi import FastAPI
-
 from src.api.routes import router
 from src.api.upload_routes import router as upload_router
-from src.api.rebuild_routes import router as rebuild_router
 
 app = FastAPI(
     title="Enterprise AI Knowledge Assistant",
@@ -11,4 +9,3 @@ app = FastAPI(
 
 app.include_router(router)
 app.include_router(upload_router)
-app.include_router(rebuild_router)
